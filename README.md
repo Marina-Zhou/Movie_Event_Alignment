@@ -1,4 +1,7 @@
-# **Comparing machine learning extracted events from audio description with manual extracted events from movie summaries**<br />
+# **Evaluation and alignment of movie events extracted via machine learning**<br />
 
-## **Description**<br />
-This repository is the code and data for preparing CHR paper.<br />
+## **Introduction**<br />
+The events that compose a story are crucial for researchers conducting content analysis of movies (Li et al., 2004). As artificial intelligence aims to achieve the ability to automatically understand narratives as a long-term goal (Chaturvedi et al., 2018), researchers continuously develop and improve machine learning (ML) methods for more accurate event extraction from audiovisual narratives. However, the unstructured nature of video data and advanced semantic content of movies pose challenges for computers in understanding and processing videos (Liu et al., 2023; Tapaswi et al., 2015). The effectiveness of ML in event extraction from audiovisual material still lags behind human manual extraction (Li et al., 2004). Moreover, narrative understanding is a border and more complex process that involves hermeneutic processes that go beyond the identification of events (Phelan and Rabinotwitz, 1994). In this light, our goal is to evaluate the alignment between human interpretation of the main events in a movie narrative and machine processing of the same narrative. Differently from many works in computer science, our focus is on the understanding of the usefulness of ML methods for narratology.
+
+In this limited exploration, we employed a combined approach of distant viewing and close reading. Firstly, we manually annotated events from Wikipedia movie summaries. Then, we aligned them to events extracted from audio descriptions using ML. We specifically focus on coverage of movie content, and duration, length, and type of events.
+<br />
