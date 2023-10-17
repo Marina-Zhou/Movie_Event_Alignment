@@ -17,18 +17,15 @@ Details of the events data can be found on [Data](https://github.com/Marina-Zhou
  
 ## Cumulative distribution of movie summary events and aligned video clips for three sample movies
 
-<div align="center">
-  <img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img2.png" width="100%"/>
+<img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img2.png" width="50%"/>
 
 ### Events Alignment Visualization
 
-<div align="center">
-  <img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img4.png" width="100%"/>
+<img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img4.png" width="100%"/>
  
 **Figure4** Time length and distribution of manually-annotated events successfully aligned with ML- extracted events for the movie Flight
 
-<div align="center">
-  <img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img5.png" width="100%" />
+<img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img5.png" width="100%" />
  
 **Figure5** Time length and distribution of ML-extracted events successfully and unsuccessfully aligned with manually-annotated events for the movie Flight
 
