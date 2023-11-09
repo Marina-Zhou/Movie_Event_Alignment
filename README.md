@@ -1,4 +1,4 @@
-# Evaluation and Alignment of Movie Events Extracted via Machine Learning from a Narrotological Perspective
+# Evaluation and Alignment of Movie Events Extracted via Machine Learning from a Narratological Perspective
 
 > **Abstract:** We combine distant viewing and close reading to evaluate the usefulness of events extracted via machine learning from audio description of movies. To do this, we manually annotate events from Wikipedia summaries for three movies and align them to ML-extracted events. Our exploration suggests that computational narratology should combine datasets with events extracted from multimodal data sources that take into account both visual and verbal cues when detecting events.
 
