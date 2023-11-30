@@ -15,17 +15,17 @@ Details of the events data can be found on [Data](https://github.com/Marina-Zhou
 | Average number of ML-extracted events aligned to summary events |            3.68           |            1.58            |     4.00     |
 | Inter-annotator agreement (Krippendorff’s alpha)                |            0.93           |            0.67            |     0.83     |
  
-### Verification of whether Wikipedia summaries’ events cover the semantic content of most key video clips
+## Verification of whether Wikipedia summaries’ events cover the semantic content of most key video clips
 
+<p float="left">
 <img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img2.png" width="50%"/>
-
+</p>
 **Figure2:** Cumulative distribution of movie summary events and aligned video clips for three sample movies
 
-### Events Alignment Visualization
+## Events Alignment Visualization
 
 
 <img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img5.png" width="100%"/>
-
 **Figure5:** Time length and distribution of ML-extracted events successfully and unsuccessfully aligned with manually-annotated events for the movie Flight
 
 ### Reproducing the Analysis and Plots
