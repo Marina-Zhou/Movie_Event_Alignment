@@ -4,24 +4,24 @@
 
 This repository contains data and code associated with the paper ["Evaluation and Alignment of Movie Events Extracted via Machine Learning from a Narratological Perspective"](https://ceur-ws.org/Vol-3558/paper441.pdf). If you use any of the following contents, please cite our paper.
 
-## ML Extracted & Human Annotated Movie Events Number Comparison 
+### ML Extracted & Human Annotated Movie Events Number Comparison 
 
 Details of the events data can be found on [Data](https://github.com/Marina-Zhou/Movie_Event_Alignment/tree/main/Data).
 
 | Movie Name                                                      | 500 Days of  Summer(2009) | The Social Net- work(2010) | Flight(2012) |
 |-----------------------------------------------------------------|---------------------------|----------------------------|--------------|
 | Number of ML-extracted events from AD                           |            436            |            260             |     449      |
-| Number of manually-annotated events from sum-  maries           |             80            |             43             |      64      |
+| Number of manually-annotated events from summaries              |             80            |             43             |      64      |
 | Average number of ML-extracted events aligned to summary events |            3.68           |            1.58            |     4.00     |
 | Inter-annotator agreement (Krippendorff’s alpha)                |            0.93           |            0.67            |     0.83     |
  
-## Verification of whether Wikipedia summaries’ events cover the semantic content of most key video clips
+### Verification of whether Wikipedia summaries’ events cover the semantic content of most key video clips
 
 <img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img2.png" width="50%"/>
 
 **Figure2:** Cumulative distribution of movie summary events and aligned video clips for three sample movies
 
-## Events Alignment Visualization
+### Events Alignment Visualization
 
 <img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img5.png" width="100%" />
  
