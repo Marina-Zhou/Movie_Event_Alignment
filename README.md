@@ -17,16 +17,16 @@ Details of the events data can be found on [Data](https://github.com/Marina-Zhou
  
 ## Verification of whether Wikipedia summaries’ events cover the semantic content of most key video clips
 
-<p float="center">
+<div class="center">
 <img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img2.png" width="50%"/>
-</p>
+</div>
 
 **Figure2:** Cumulative distribution of movie summary events and aligned video clips for three sample movies
 
 ## Events Alignment Visualization
 
-
 <img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img5.png" width="100%"/>
+
 **Figure5:** Time length and distribution of ML-extracted events successfully and unsuccessfully aligned with manually-annotated events for the movie Flight
 
 ### Reproducing the Analysis and Plots
