@@ -17,9 +17,10 @@ Details of the events data can be found on [Data](https://github.com/Marina-Zhou
  
 ## Verification of whether Wikipedia summaries’ events cover the semantic content of most key video clips
 
-<p float="left">
+<p float="center">
 <img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img2.png" width="50%"/>
 </p>
+
 **Figure2:** Cumulative distribution of movie summary events and aligned video clips for three sample movies
 
 ## Events Alignment Visualization
