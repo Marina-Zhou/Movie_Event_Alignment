@@ -21,7 +21,7 @@ Details of the events data can be found on [Data](https://github.com/Marina-Zhou
 
 **Figure2:** Cumulative distribution of movie summary events and aligned video clips for three sample movies
 
-### Events Alignment Visualization
+## Events Alignment Visualization
 
 <img src="https://github.com/Marina-Zhou/Movie_Event_Alignment/blob/main/images/img5.png" width="100%" />
  
