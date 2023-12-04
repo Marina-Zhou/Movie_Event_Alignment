@@ -4,7 +4,7 @@
 
 This repository contains data and code associated with the paper ["Evaluation and Alignment of Movie Events Extracted via Machine Learning from a Narratological Perspective"](https://ceur-ws.org/Vol-3558/paper441.pdf). If you use any of the following contents, please cite our paper.
 
-## ML Extracted & Human Annotated Movie Events Number Comparison 
+## ML-extracted & Human Annotated Movie Events Number Comparison 
 
 Details of the events data can be found on [Data](https://github.com/Marina-Zhou/Movie_Event_Alignment/tree/main/Data).
 
